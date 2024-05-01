@@ -1,7 +1,7 @@
 import streamlit as st 
 import pandas as pd
 import pymongo
-import base64
+
 from streamlit_option_menu import option_menu
 from datetime import datetime
 with st.sidebar:    
